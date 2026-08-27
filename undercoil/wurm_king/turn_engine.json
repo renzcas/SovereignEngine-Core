@@ -1,0 +1,13 @@
+{
+    "name": "Turn Engine",
+    "type": "Primordial Superweapon",
+    "function": "Rotates the timeline",
+    "phases": [
+        "Core Compression",
+        "Coil Rotation",
+        "Timeline Shear",
+        "Dimensional Collapse",
+        "Age Reset"
+    ],
+    "lore": "The first machine in the cosmos, grown from the Wurm King's coils."
+}

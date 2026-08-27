@@ -1,0 +1,11 @@
+{
+    "name": "Blackwater Wurmling",
+    "tier": 1,
+    "region": "Blackwater Shore",
+    "behavior": "Swarm predator",
+    "abilities": [
+        "Blackwater Bite",
+        "Swarm Surge"
+    ],
+    "lore": "First stage of Wurm King's brood."
+}
